@@ -1,6 +1,11 @@
 ## theme
-theme = astrodark
+# theme = astrodark
+# theme = catppuccin-mocha
+# theme = carbonfox
+# theme = carbonfox
 # theme = Everforest Dark - Hard
+# theme = evergarden-winter
+theme = oh-lucy-evening
 cursor-style = block
 
 ## Shell integration
@@ -10,24 +15,27 @@ shell-integration = fish
 ## macOS stuff
 macos-titlebar-style = tabs
 
-macos-icon = custom-style
+macos-icon = xray
 macos-icon-frame = plastic
-macos-icon-ghost-color = A5B2BC
-macos-icon-screen-color = 1E1517
-macos-titlebar-style = transparent
+# macos-icon-frame = plastic
+# macos-icon-ghost-color = A5B2BC
+# macos-icon-screen-color = 1E1517
+# macos-titlebar-style = transparent
 
 ## fonts
-font-family = "Berkeley Mono Variable"
 font-style = Regular
-font-size = 20
+font-size = 18
+font-thicken = true
 font-synthetic-style = bold
+font-family = "Zed Plex Mono"
 # font-family = "Departure Mono"
-# font-thicken = true
+# font-family = "Berkeley Mono Variable"
+# font-family = "JetBrainsMono Nerd Font"
 
 background-blur-radius = 50
 background-opacity = 0.985
 mouse-hide-while-typing = true
-adjust-cell-height = 16%
+adjust-cell-height = 10%
 # adjust-cell-width = 5%
 
 ## clipboard
