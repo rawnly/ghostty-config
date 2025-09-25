@@ -3,7 +3,7 @@ auto-update = download
 auto-update-channel = tip
 
 # Theme
-theme = oh-lucy
+theme = evergarden-winter-red
 
 # command = /opt/homebrew/bin/tmux new-session -A -s main
 
