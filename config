@@ -3,7 +3,8 @@ auto-update = download
 auto-update-channel = tip
 
 # Theme
-theme = cyberdream
+theme = Builtin Pastel Dark
+# theme = cyberdream
 # theme = evergarden-winter-red
 
 # command = /opt/homebrew/bin/zellij attach -c main 
@@ -11,8 +12,8 @@ theme = cyberdream
 
 # Background & Appearance
 background-blur-radius = 50
-background-opacity = 0.985
-adjust-cell-height = 10%
+background-opacity = 0.97
+# adjust-cell-height = 3%
 # adjust-cell-width = 5%
 
 # Clipboard
@@ -27,12 +28,12 @@ cursor-style = block
 
 # Fonts
 font-style = Regular
-font-size = 18
+font-size = 15
 font-thicken = true
 font-synthetic-style = bold
-font-family = "Zed Plex Mono"
+font-family = "Berkeley Mono Variable"
+# font-family = "Zed Plex Mono"
 # font-family = "Departure Mono"
-# font-family = "Berkeley Mono Variable"
 # font-family = "JetBrainsMono Nerd Font"
 
 # macOS Settings
@@ -121,5 +122,3 @@ keybind = alt+enter=toggle_fullscreen
 keybind = cmd+i=inspector:toggle
 # keybind = cmd+shift+\=toggle_window_float_on_top
 
-
-# custom-shader = shaders/spotlight.glsl
