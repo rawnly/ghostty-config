@@ -3,7 +3,9 @@ auto-update = download
 auto-update-channel = tip
 
 # Theme
-theme = Builtin Pastel Dark
+theme = teide_darker
+# theme = tokyonight_night
+# theme = Builtin Pastel Dark
 # theme = cyberdream
 # theme = evergarden-winter-red
 
@@ -11,8 +13,8 @@ theme = Builtin Pastel Dark
 # initial-command = /opt/homebrew/bin/zellij 
 
 # Background & Appearance
-background-blur-radius = 50
-background-opacity = 0.97
+# background-blur-radius = 90
+# background-opacity = 1 # 0.98
 # adjust-cell-height = 3%
 # adjust-cell-width = 5%
 
