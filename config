@@ -3,7 +3,7 @@ auto-update = download
 auto-update-channel = tip
 
 # Theme
-theme = teide_darker
+theme = nyx_darker
 # theme = tokyonight_night
 # theme = Builtin Pastel Dark
 # theme = cyberdream
@@ -26,7 +26,7 @@ clipboard-trim-trailing-spaces = true
 copy-on-select = true
 
 # Cursor
-cursor-style = block
+cursor-style = bar
 
 # Fonts
 font-style = Regular
