@@ -3,7 +3,7 @@ auto-update = download
 auto-update-channel = tip
 
 # Theme
-theme = nyx_darker
+theme = koda_dark
 # theme = tokyonight_night
 # theme = Builtin Pastel Dark
 # theme = cyberdream
