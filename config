@@ -3,7 +3,7 @@ auto-update = download
 auto-update-channel = tip
 
 # Theme
-theme = jellybeans
+theme = dark:ember,light:ember-light
 # theme = tokyonight_night
 # theme = Builtin Pastel Dark
 # theme = cyberdream
@@ -60,6 +60,7 @@ quick-terminal-size = 60%,80%
 
 # Shell Integration
 shell-integration = fish
+shell-integration-features = ssh-env,ssh-terminfo
 
 # Window Settings
 window-decoration = true 
