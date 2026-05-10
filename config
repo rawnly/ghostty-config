@@ -3,7 +3,7 @@ auto-update = download
 auto-update-channel = tip
 
 # Theme
-theme = dark:ember,light:ember-light
+theme = ember
 
 # Clipboard
 clipboard-read = "allow"
