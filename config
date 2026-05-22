@@ -3,7 +3,7 @@ auto-update = download
 auto-update-channel = tip
 
 # Theme
-theme = ember
+theme = thorn-forest
 
 # Clipboard
 clipboard-read = "allow"
@@ -63,8 +63,9 @@ copy-on-select = clipboard
 # Keybinds
 keybind=clear
 
-keybind = unconsumed:global:cmd+shift+ctrl+alt+equal=toggle_quick_terminal
-#
+keybind = cmd+v=paste_from_clipboard
+keybind = cmd+c=copy_to_clipboard
+
 # # Window management
 keybind = cmd+shift+r=reload_config
 keybind = cmd+q=quit
