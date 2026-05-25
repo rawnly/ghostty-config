@@ -3,7 +3,9 @@ auto-update = download
 auto-update-channel = tip
 
 # Theme
-theme = thorn-forest
+theme = dark:cyberdream,light:cyberdream-light
+background-blur = true
+background-opacity = 0.98
 
 # Clipboard
 clipboard-read = "allow"
@@ -14,24 +16,18 @@ copy-on-select = true
 
 # Cursor
 cursor-style = bar
+cursor-style-blink = false
 
 # Fonts
-font-style = Regular
 font-size = 18
+font-family = "Berkeley Mono"
 font-thicken = true
-font-synthetic-style = bold
-font-family = "Berkeley Mono Variable"
-# font-family = "Zed Plex Mono"
-# font-family = "Departure Mono"
-# font-family = "JetBrainsMono Nerd Font"
+font-thicken-strength = 75
 
 # macOS Settings
 macos-titlebar-style = tabs
 macos-icon = xray
 macos-icon-frame = plastic
-# macos-icon-ghost-color = A5B2BC
-# macos-icon-screen-color = 1E1517
-# macos-titlebar-style = transparent
 macos-non-native-fullscreen = true
 macos-option-as-alt=true
 
@@ -47,7 +43,7 @@ quick-terminal-size = 60%,80%
 
 # Shell Integration
 shell-integration = fish
-shell-integration-features = ssh-env,ssh-terminfo
+shell-integration-features = no-cursor
 
 # Window Settings
 window-decoration = true 
