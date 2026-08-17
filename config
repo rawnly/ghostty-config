@@ -3,7 +3,7 @@ auto-update = download
 auto-update-channel = tip
 
 # Theme
-theme = dark:cyberdream,light:cyberdream-light
+theme = base16-mountain
 background-blur = true
 background-opacity = 0.98
 
